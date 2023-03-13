@@ -1,0 +1,14 @@
+{
+    "baseUrl": "https://barrigareact.wcaquino.me/",
+    "chromeWebSecurity": false,
+    "testFiles": "./**/**/*.spec.js",
+    "reporterOptions": {
+      "mochaFile": "./cypress/reports/junit/reporter-file-tests-[hash].xml"
+    }
+    
+  }
+
+
+
+
+  
